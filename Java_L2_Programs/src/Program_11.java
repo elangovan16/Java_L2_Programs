@@ -15,13 +15,13 @@ public class Program_11 {
 		int n=sc.nextInt();
 		String[] ary=new String[n];
 		sc.nextLine();
-		sc.close();
 		String temp1="",temp2="";
 		for(int i=0;i<n;i++) {
 			System.out.println("Enter the "+(i+1)+" word");
 			String temp=sc.nextLine();
 			ary[i]=temp;
 		}
+		sc.close();
 		for(int j=0;j<n;j++) {
 			for(int k=0;k<ary[j].length();k++) {
 				if(k%2==0) {
