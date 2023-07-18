@@ -15,12 +15,18 @@ public class Program_14 {
 			ary[i]=sc.nextInt();
 		}
 		sc.close();
-		int[] temp=ary;
 		Arrays.sort(ary);
+		int ans[]=new int[n];
+		int index=0;
 		for(int j=0;j<n;j++) {
-			System.out.print(temp[j] + " ");
-			
-			System.out.print(ary[j] + " ");
+			if(j%2==0) {
+				ans[j]=ary[n-(index+1)];
+			}
+			else {
+				ans[j]=ary[index++];
+			}
+		
 		}
+		System.out.println(Arrays.toString(ans));
 	}
 }
