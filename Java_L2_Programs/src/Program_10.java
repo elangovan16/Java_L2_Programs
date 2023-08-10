@@ -6,7 +6,7 @@ wrappers: minimum number of wrappers for exchange choco: number of chocolate for
 Max visit: Maximum number of times one can visit the shop.(if zero consider it infinite)
 example: input: Money:40 Price:1 wrappers:3 choco:1 Max visit:1 Output: total chocolate can eat: 53 wrappers left in hand:14*/
 
-import java.util.Scanner;
+import java.util.Scanner; 
 public class Program_10 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

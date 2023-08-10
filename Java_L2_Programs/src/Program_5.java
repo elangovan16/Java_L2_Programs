@@ -1,5 +1,5 @@
 /*
- * 5. Given a matrix of 2D array of n rows and m coloumns. Print this matrix in ZIG-ZAG fashion as shown in
+ *5. Given a matrix of 2D array of n rows and m coloumns. Print this matrix in ZIG-ZAG fashion as shown in
 figure.
 Example:
 Input:

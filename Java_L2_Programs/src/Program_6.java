@@ -1,5 +1,5 @@
 /*
- * 6. Remove the duplicates in the String.
+ * 6.Remove the duplicates in the String.
 Testcase 1:
 Input: Java1234
 Output: Javb1234 (Remove the second ‘a’ as it is duplicated)

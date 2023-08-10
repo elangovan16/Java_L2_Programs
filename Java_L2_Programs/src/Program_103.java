@@ -1,5 +1,5 @@
 /*
- *103) Find the largest sum contiguous subarray which should not have negative numbers. We have to print
+ *103)Find the largest sum contiguous subarray which should not have negative numbers. We have to print
 the sum and the corresponding array elements which brought up the
 sum.
 Sample:

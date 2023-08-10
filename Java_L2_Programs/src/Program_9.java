@@ -1,5 +1,5 @@
 /*
- * 9. Reverse the words in the given String1 from the first occurrence of String2 in String1 by maintaining white Spaces.
+ * 9.Reverse the words in the given String1 from the first occurrence of String2 in String1 by maintaining white Spaces.
 example: String1 = Input: This is a test String only String2 = st Output: This is a only String test*/
 import java.util.Scanner;
 public class Program_9 {

@@ -1,5 +1,5 @@
 /*
- * 14.
+*14.
 Sample Input – Alternate SortingInput: {1, 2, 3, 4, 5, 6, 7}
 output: {7, 1, 6, 2, 5, 3, 4}*/
 import java.util.Arrays;

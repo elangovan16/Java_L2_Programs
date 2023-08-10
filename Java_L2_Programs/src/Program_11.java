@@ -1,5 +1,5 @@
 /*
- * 11. 
+ *11. 
 Sample Input-
 2
 Hacker

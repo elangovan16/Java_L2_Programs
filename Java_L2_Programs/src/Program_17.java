@@ -1,5 +1,5 @@
 /*
- * 17.Given an array of integers, compute the maximum value for each integer in the index, 
+ *17.Given an array of integers, compute the maximum value for each integer in the index, 
  * by either summing all the digits or multiplying all the digits. (Choose which operation gives the maximum value)
     • Input:
     • 5

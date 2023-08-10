@@ -1,5 +1,5 @@
 /*
- * 21.Given N. print the following snake pattern (say N = 4). condition: must not use arrays ( 1D array or 2D
+ *21.Given N. print the following snake pattern (say N = 4). condition: must not use arrays ( 1D array or 2D
 array like Matrix ).
  1  2  3  4
  8  7  6  5

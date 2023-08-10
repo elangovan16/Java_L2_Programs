@@ -1,5 +1,5 @@
 /*
- * 7. Print whether the version is upgraded, downgraded or not changed according to the input given.
+ *7. Print whether the version is upgraded, downgraded or not changed according to the input given.
 example: Input : Version1 4.8.2 Version2 4.8.4 Output: upgraded, Input : Version1 4.0.2 Version2 4.8.4 Output: downgraded*/
 import java.util.Scanner;
 public class Program_7 {

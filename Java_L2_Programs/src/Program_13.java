@@ -1,5 +1,5 @@
 /*
- * 13.Print the word with odd letters – PROGRAM
+ *13.Print the word with odd letters – PROGRAM
 Sample Output-
 P      P
  R    R 
