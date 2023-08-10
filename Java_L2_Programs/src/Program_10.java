@@ -20,7 +20,7 @@ public class Program_10 {
 		int visit=sc.nextInt();
 		sc.close();
 		int chocolate=0,wrappers=0;
-		
+
 		chocolate+=(total/price);
 		wrappers+=chocolate;
 		while(visit>0) {

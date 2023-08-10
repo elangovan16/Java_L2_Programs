@@ -1,5 +1,5 @@
 /*
-*103) Find the largest sum contiguous subarray which should not have negative numbers. We have to print
+ *103) Find the largest sum contiguous subarray which should not have negative numbers. We have to print
 the sum and the corresponding array elements which brought up the
 sum.
 Sample:
@@ -25,6 +25,9 @@ public class Program_103 {
 				s += arr[i] + ",";
 				if (sum > max) {
 					max = sum;
+				}
+				if (i == arr.length - 1) {
+					m.put(sum, s);
 				}
 			} else {
 				if (sum > 0) {
