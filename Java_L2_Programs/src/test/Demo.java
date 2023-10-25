@@ -1,7 +1,6 @@
 package test;
-import java.util.Date;
-public class Date1 {
+
+public class Demo {
 	public static void main(String[] args) {
 	}
 }
- 
